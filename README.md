@@ -7,7 +7,7 @@ Recursion and Backtracking.
 
 | # | Problem | C++ Solution | Notes |
 |---|---|---|---|
-| 1 | 1 Queen, 1 Knight, 1 Bishop, 1 Rook | [qkbr.cpp](./1Q-1K-1B-1R/qkbr.cpp) | [Notion](YOUR_LINK) |
+| 1 | 1 Queen, 1 Knight, 1 Bishop, 1 Rook | [qkbr.cpp](qkbr.cpp) | [Notion](YOUR_LINK) |
 | 2 | N-Bishop | [nbishop.cpp](./N-Bishop/nbishop.cpp) | [Notion](YOUR_LINK) |
 | 3 | N-Knights | [nknights.cpp](./N-Knights/nknights.cpp) | [Notion](YOUR_LINK) |
 | 4 | N-Queen | [nqueen.cpp](./N-Queen/nqueen.cpp) | [Notion](YOUR_LINK) |
